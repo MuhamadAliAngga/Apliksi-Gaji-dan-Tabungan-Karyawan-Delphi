@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/02 17:15:00.000.953,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/06 12:14:01.000.393,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/01 09:29:20.000.043,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/10 15:25:22.000.717,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/10 15:52:51.000.849,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/10 15:56:03.000.931,C:\Users\User\Documents\Mini Skripsi\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/10 15:56:03.000.931,C:\Users\User\Documents\Mini Skripsi\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/10 15:56:06.000.541,C:\Users\User\Documents\Mini Skripsi\Unit2.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/10 15:56:06.000.541,C:\Users\User\Documents\Mini Skripsi\Unit2.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/06/10 15:56:20.000.034,C:\Users\User\Documents\Mini Skripsi\ProjectMiniSkripsi.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/10 15:56:36.000.176,=C:\Users\User\Documents\Mini Skripsi\Unit3.pas</Transaction>
+    <Transaction>2023/06/10 16:03:01.000.588,=C:\Users\User\Documents\Mini Skripsi\Unit4.pas</Transaction>
+    <Transaction>2023/06/10 16:18:15.000.767,C:\Users\User\Documents\Mini Skripsi\DataModule.pas=C:\Users\User\Documents\Mini Skripsi\Unit2.pas</Transaction>
+    <Transaction>2023/06/10 16:18:15.000.767,C:\Users\User\Documents\Mini Skripsi\DataModule.dfm=C:\Users\User\Documents\Mini Skripsi\Unit2.dfm</Transaction>
+    <Transaction>2023/06/10 16:24:51.000.002,C:\Users\User\Documents\Mini Skripsi\Unit2.pas=C:\Users\User\Documents\Mini Skripsi\DataModule.pas</Transaction>
+    <Transaction>2023/06/10 16:24:51.000.002,C:\Users\User\Documents\Mini Skripsi\Unit2.dfm=C:\Users\User\Documents\Mini Skripsi\DataModule.dfm</Transaction>
+    <Transaction>2023/06/10 20:52:01.000.302,=C:\Users\User\Documents\Mini Skripsi\Unit5.pas</Transaction>
+    <Transaction>2023/06/10 21:41:12.000.018,=C:\Users\User\Documents\Mini Skripsi\Unit6.pas</Transaction>
+    <Transaction>2023/06/11 10:00:01.000.357,=C:\Users\User\Documents\Mini Skripsi\Unit7.pas</Transaction>
+    <Transaction>2023/06/12 07:07:12.000.405,=C:\Users\User\Documents\Mini Skripsi\Unit8.pas</Transaction>
+    <Transaction>2023/06/12 08:29:52.000.178,=C:\Users\User\Documents\Mini Skripsi\Unit9.pas</Transaction>
+    <Transaction>2023/06/13 17:07:11.000.170,=C:\Users\User\Documents\Mini Skripsi\Unit10.pas</Transaction>
+    <Transaction>2023/06/13 17:27:05.000.137,=C:\Users\User\Documents\Mini Skripsi\Unit11.pas</Transaction>
+    <Transaction>2023/06/15 13:46:24.000.730,=C:\Users\User\Documents\Mini Skripsi\Unit12.pas</Transaction>
+  </Transactions>
+</BorlandProject>
